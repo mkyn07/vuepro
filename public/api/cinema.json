@@ -1,0 +1,820 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "cinemas": [
+      {
+        "cinemaName": "金逸影城上海龙之梦IMAX店",
+        "cinemaId": "1",
+        "address": "上海市虹口区西江湾路388号凯德龙之梦B座6F-7F",
+        "latitude": "31.27125",
+        "longitude": "121.4787"
+      },
+      {
+        "cinemaName": "上海南桥海上国际影城",
+        "cinemaId": "2",
+        "address": "上海奉贤区百齐路288号（百联二期四楼）",
+        "latitude": "30.91572",
+        "longitude": "121.4829"
+      },
+      {
+        "cinemaName": "大地数字影院-罗宾森影城",
+        "cinemaId": "4",
+        "address": "嘉定城中路138号罗宾森广场4楼",
+        "latitude": "31.38443",
+        "longitude": "121.2456"
+      },
+      {
+        "cinemaName": "大地数字影院--上海弘基",
+        "cinemaId": "5",
+        "address": "上海市宝山区聚丰园路57弄3号3楼（上海大学旁）",
+        "latitude": "31.31529",
+        "longitude": "121.386"
+      },
+      {
+        "cinemaName": "大地数字-上海宝山大华",
+        "cinemaId": "6",
+        "address": "上海宝山区大华路518号4楼(乐购商场四楼)",
+        "latitude": "31.27167",
+        "longitude": "121.4143"
+      },
+      {
+        "cinemaName": "大悦城新恒星影城",
+        "cinemaId": "8",
+        "address": "上海市闸北区西藏北路166号大悦城10-11楼",
+        "latitude": "31.24247",
+        "longitude": "121.4719"
+      },
+      {
+        "cinemaName": "上海华士达东方影城 ",
+        "cinemaId": "9",
+        "address": "上海市徐汇区东安路599号绿地中心正大乐城3楼",
+        "latitude": "31.18567",
+        "longitude": "121.4576"
+      },
+      {
+        "cinemaName": "世茂时尚欢乐影城--长岛店",
+        "cinemaId": "10",
+        "address": "上海市浦东新区长岛路1156、1158号3楼",
+        "latitude": "31.26088",
+        "longitude": "121.5918"
+      },
+      {
+        "cinemaName": "保利国际影城上海祥腾店",
+        "cinemaId": "11",
+        "address": "上海嘉定区真南路4368弄1、2号中冶祥腾城市广场4层",
+        "latitude": "31.29537",
+        "longitude": "121.3218"
+      },
+      {
+        "cinemaName": "上海宝山UME国际影城",
+        "cinemaId": "12",
+        "address": "上海市宝山区牡丹江路318号诺亚新天地广场D栋四楼",
+        "latitude": "31.38172",
+        "longitude": "121.4967"
+      },
+      {
+        "cinemaName": "世纪沪星影城",
+        "cinemaId": "13",
+        "address": "上海市闵行区沪星路289弄28号C区402 ",
+        "latitude": "31.16376",
+        "longitude": "121.3358"
+      },
+      {
+        "cinemaName": "上海左岸影城（松江店）",
+        "cinemaId": "14",
+        "address": "上海松江区松汇中路568号鹿都国际广场4楼",
+        "latitude": "31.00405",
+        "longitude": "121.2348"
+      },
+      {
+        "cinemaName": "上海银兴菲林国际影城",
+        "cinemaId": "15",
+        "address": "上海市嘉定区塔城路295号2幢",
+        "latitude": "31.3839",
+        "longitude": "121.2563"
+      },
+      {
+        "cinemaName": "上海永华电影城",
+        "cinemaId": "16",
+        "address": "上海市虹桥路1号徐家汇港汇广场六楼",
+        "latitude": "31.19475",
+        "longitude": "121.4369"
+      },
+      {
+        "cinemaName": "上海新世纪影城",
+        "cinemaId": "17",
+        "address": "浦东张杨路501号（第一八佰伴十楼）",
+        "latitude": "31.22829",
+        "longitude": "121.517"
+      },
+      {
+        "cinemaName": "上海和平影都",
+        "cinemaId": "18",
+        "address": "西藏中路290号(汉口路口)",
+        "latitude": "31.23277",
+        "longitude": "121.4756"
+      },
+      {
+        "cinemaName": "上海影城",
+        "cinemaId": "19",
+        "address": "长宁区新华路160号番禺路口",
+        "latitude": "31.20232",
+        "longitude": "121.4298"
+      },
+      {
+        "cinemaName": "上海兰生典尚影院",
+        "cinemaId": "20",
+        "address": "淮海中路8号  柳林路1号 兰生大厦5层 ",
+        "latitude": "31.22622",
+        "longitude": "121.4794"
+      },
+      {
+        "cinemaName": "新衡山电影院",
+        "cinemaId": "21",
+        "address": "徐汇区衡山路838号",
+        "latitude": "31.19741",
+        "longitude": "121.4405"
+      },
+      {
+        "cinemaName": "世茂时尚欢乐影城--松江店",
+        "cinemaId": "22",
+        "address": "上海市松江新城文诚路238弄1号2楼",
+        "latitude": "30.9995",
+        "longitude": "121.228"
+      },
+      {
+        "cinemaName": "上海左岸影城（金汇店）",
+        "cinemaId": "23",
+        "address": "闵行区金汇路528号虹桥古玩城5楼",
+        "latitude": "31.18072",
+        "longitude": "121.374"
+      },
+      {
+        "cinemaName": "新世界电影城",
+        "cinemaId": "24",
+        "address": "南京西路2～68号新世界城12楼",
+        "latitude": "31.23484",
+        "longitude": "121.474"
+      },
+      {
+        "cinemaName": "上海大光明电影院",
+        "cinemaId": "25",
+        "address": "南京西路216号",
+        "latitude": "31.23298",
+        "longitude": "121.4713"
+      },
+      {
+        "cinemaName": "上海17.5影城北桥店",
+        "cinemaId": "26",
+        "address": "上海市闵行区鹤翔路28弄9、10号一楼",
+        "latitude": "31.04743",
+        "longitude": "121.4086"
+      },
+      {
+        "cinemaName": "上海沪北电影院",
+        "cinemaId": "27",
+        "address": "洛川东路500号",
+        "latitude": "31.26826",
+        "longitude": "121.4586"
+      },
+      {
+        "cinemaName": "上海橙天嘉禾影城",
+        "cinemaId": "28",
+        "address": "上海市嘉定区江桥镇嘉怡路303号嘉尚坊3层A",
+        "latitude": "31.26292",
+        "longitude": "121.3472"
+      },
+      {
+        "cinemaName": "上海17.5影城中环店",
+        "cinemaId": "29",
+        "address": "上海市普陀区真光路1288号百联中环购物广场C区4F",
+        "latitude": "31.24581",
+        "longitude": "121.3831"
+      },
+      {
+        "cinemaName": "UME新天地影城",
+        "cinemaId": "30",
+        "address": "★新天地店：黄浦区兴业路123弄新天地南里6号5楼(新天地广场内) ",
+        "latitude": "31.22038",
+        "longitude": "121.4749"
+      },
+      {
+        "cinemaName": "海上国际影城莘庄店",
+        "cinemaId": "31",
+        "address": "沪闵路6088号凯德龙之梦4楼",
+        "latitude": "31.10876",
+        "longitude": "121.3789"
+      },
+      {
+        "cinemaName": "上海17.5影城又一城店",
+        "cinemaId": "32",
+        "address": "上海市杨浦区淞沪路8号（百联又一城购物中心）8楼",
+        "latitude": "31.3018",
+        "longitude": "121.5155"
+      },
+      {
+        "cinemaName": "曲阳影都",
+        "cinemaId": "33",
+        "address": "曲阳路570号",
+        "latitude": "31.28035",
+        "longitude": "121.4909"
+      },
+      {
+        "cinemaName": "上影国际影城宝山店",
+        "cinemaId": "34",
+        "address": "上海市宝山区永清路700号",
+        "latitude": "31.39293",
+        "longitude": "121.4917"
+      },
+      {
+        "cinemaName": "上海影城-世博国际影城",
+        "cinemaId": "35",
+        "address": "上海市世博大道1200号世博文化中心6楼（梅赛德斯-奔驰文化中心）",
+        "latitude": "31.18585",
+        "longitude": "121.4897"
+      },
+      {
+        "cinemaName": "上海四平电影院",
+        "cinemaId": "36",
+        "address": "四平路901号（四平路\/大连路口）",
+        "latitude": "31.27554",
+        "longitude": "121.501"
+      },
+      {
+        "cinemaName": "上海曹杨影城",
+        "cinemaId": "37",
+        "address": "上海市普陀区兰溪路125号",
+        "latitude": "31.23864",
+        "longitude": "121.4061"
+      },
+      {
+        "cinemaName": "上海环艺电影城",
+        "cinemaId": "38",
+        "address": "上海市南京西路1038号梅龙镇广场10楼",
+        "latitude": "31.22863",
+        "longitude": "121.4567"
+      },
+      {
+        "cinemaName": "上海西南影城",
+        "cinemaId": "39",
+        "address": "罗香路237号（龙临路口）",
+        "latitude": "31.13414",
+        "longitude": "121.4367"
+      },
+      {
+        "cinemaName": "上海世纪友谊影城",
+        "cinemaId": "40",
+        "address": "沪闵路7250号友谊南方商城9楼（地铁一号线莲花站对面）",
+        "latitude": "31.13184",
+        "longitude": "121.4005"
+      },
+      {
+        "cinemaName": "上海世纪仙霞影城",
+        "cinemaId": "41",
+        "address": "上海长宁区仙霞西路88号（近哈密路）百联西郊购物中心4楼",
+        "latitude": "31.20931",
+        "longitude": "121.3704"
+      },
+      {
+        "cinemaName": "博纳国际影城上海中原店",
+        "cinemaId": "42",
+        "address": "上海市杨浦区国和路777号中原城市广场2座4楼",
+        "latitude": "31.31573",
+        "longitude": "121.522"
+      },
+      {
+        "cinemaName": "超极电影世界",
+        "cinemaId": "44",
+        "address": "上海市肇嘉浜路1111号（美罗城5楼）",
+        "latitude": "31.19286",
+        "longitude": "121.4398"
+      },
+      {
+        "cinemaName": "喜玛拉雅海上国际影城",
+        "cinemaId": "45",
+        "address": "芳甸路1188弄喜马拉雅中心7－8楼",
+        "latitude": "31.20837",
+        "longitude": "121.5626"
+      },
+      {
+        "cinemaName": "上海博纳银兴国际影城",
+        "cinemaId": "46",
+        "address": "上海市普陀区武宁路101号我格广场4F",
+        "latitude": "31.23822",
+        "longitude": "121.4232"
+      },
+      {
+        "cinemaName": "上海南翔比高电影城",
+        "cinemaId": "47",
+        "address": "上海嘉定沪宜公路1082号5幢1层",
+        "latitude": "31.29452",
+        "longitude": "121.3033"
+      },
+      {
+        "cinemaName": "金逸上海中环店",
+        "cinemaId": "48",
+        "address": "上海市普陀区金沙江路1628号绿洲中环太平洋广场5号楼",
+        "latitude": "31.23381",
+        "longitude": "121.3799"
+      },
+      {
+        "cinemaName": "金逸上海张江店",
+        "cinemaId": "49",
+        "address": "上海浦东新区碧波路635号传奇广场二楼",
+        "latitude": "31.20108",
+        "longitude": "121.5835"
+      },
+      {
+        "cinemaName": "上海万裕汇金虹桥天山店",
+        "cinemaId": "50",
+        "address": "上海长宁区天山路900号汇金百货6楼",
+        "latitude": "31.21148",
+        "longitude": "121.4036"
+      },
+      {
+        "cinemaName": "上海17.5影城闸北店",
+        "cinemaId": "51",
+        "address": "上海市闸北区共和新路3088号祥腾财富广场2号楼205-208",
+        "latitude": "31.29347",
+        "longitude": "121.4471"
+      },
+      {
+        "cinemaName": "上海17.5影城闵行店",
+        "cinemaId": "53",
+        "address": "上海市闵行区虹井路288号乐虹坊精致生活广场四楼",
+        "latitude": "31.17702",
+        "longitude": "121.3704"
+      },
+      {
+        "cinemaName": "上海17.5影城金龙店",
+        "cinemaId": "54",
+        "address": "上海市金山区朱泾镇金龙新街528弄7105号（金上海生活广场，自由港KTV楼下）",
+        "latitude": "30.88696",
+        "longitude": "121.1692"
+      },
+      {
+        "cinemaName": "上海17.5影城春都店",
+        "cinemaId": "55",
+        "address": "上海闵行区春都路233号3F",
+        "latitude": "31.08274",
+        "longitude": "121.4169"
+      },
+      {
+        "cinemaName": "上海17.5影城嘉定店",
+        "cinemaId": "57",
+        "address": "上海市嘉定区安亭镇民丰路818号",
+        "latitude": "31.30602",
+        "longitude": "121.1566"
+      },
+      {
+        "cinemaName": "华谊兄弟上海影院",
+        "cinemaId": "58",
+        "address": "上海市普陀区大渡河路196号长风景畔广场5楼 近云岭东路 (长风公园西门对面)",
+        "latitude": "31.22162",
+        "longitude": "121.3966"
+      },
+      {
+        "cinemaName": "中影国际影城（川沙店）",
+        "cinemaId": "59",
+        "address": "上海市川沙路5558号6号楼3楼",
+        "latitude": "31.18328",
+        "longitude": "121.7004"
+      },
+      {
+        "cinemaName": "上海国泰电影院",
+        "cinemaId": "60",
+        "address": "淮海中路870号",
+        "latitude": "31.21795",
+        "longitude": "121.4614"
+      },
+      {
+        "cinemaName": "上海三林大光明影城",
+        "cinemaId": "61",
+        "address": "上海市浦东新区长清路507-517号恒大长青商城3楼",
+        "latitude": "31.16155",
+        "longitude": "121.492"
+      },
+      {
+        "cinemaName": "上海南汇乐购影城",
+        "cinemaId": "62",
+        "address": "上海市浦东新区惠南镇南门大街18号乐购5楼",
+        "latitude": "31.04167",
+        "longitude": "121.7564"
+      },
+      {
+        "cinemaName": "上海万裕国际影城（七宝店）",
+        "cinemaId": "63",
+        "address": "上海市漕宝路3489号（汇宝百货8楼）",
+        "latitude": "31.15618",
+        "longitude": "121.3499"
+      },
+      {
+        "cinemaName": "上海星濠国际影城（松江店）",
+        "cinemaId": "64",
+        "address": "上海市松江区泗泾镇古楼路1886号（近9号线佘山站）",
+        "latitude": "31.10318",
+        "longitude": "121.2311"
+      },
+      {
+        "cinemaName": "海艺数字影城",
+        "cinemaId": "65",
+        "address": "上海浦东新区张江华佗路280弄31号（科苑路蔡伦路路口）",
+        "latitude": "31.19127",
+        "longitude": "121.5917"
+      },
+      {
+        "cinemaName": "上海万裕国际影城淮海店",
+        "cinemaId": "66",
+        "address": "上海市淮海中路99号大上海时代广场六楼",
+        "latitude": "31.22468",
+        "longitude": "121.4791"
+      },
+      {
+        "cinemaName": "上海17.5影城临港店",
+        "cinemaId": "67",
+        "address": "上海浦东新区南汇新城镇环湖西二路588号幢205-210、250-253",
+        "latitude": "30.89615",
+        "longitude": "121.9227"
+      },
+      {
+        "cinemaName": "佰迦乐大光明影城",
+        "cinemaId": "68",
+        "address": "上海市张杨北路801号文峰广场二楼",
+        "latitude": "31.27049",
+        "longitude": "121.5876"
+      },
+      {
+        "cinemaName": "上海17.5影城北虹店",
+        "cinemaId": "69",
+        "address": "上海长宁区北虹路1068号第四层B区（世纪联华）",
+        "latitude": "31.21511",
+        "longitude": "121.3766"
+      },
+      {
+        "cinemaName": "大地数字影院-上海万嘉影城",
+        "cinemaId": "70",
+        "address": "上海浦东新区东靖路1881号四楼",
+        "latitude": "31.29333",
+        "longitude": "121.6097"
+      },
+      {
+        "cinemaName": "上影国际影城南桥新都汇店",
+        "cinemaId": "71",
+        "address": "上海市奉贤区环城东路681-707号新都汇4楼",
+        "latitude": "30.93508",
+        "longitude": "121.4626"
+      },
+      {
+        "cinemaName": "上海世纪天虹影城",
+        "cinemaId": "72",
+        "address": "上海市青浦区华新镇华强街239号三楼(华新中学对面)",
+        "latitude": "31.24163",
+        "longitude": "121.2302"
+      },
+      {
+        "cinemaName": "大光明丽盛影城",
+        "cinemaId": "73",
+        "address": "上海浦东新区南泉北路528号新大陆广场北楼4F（近八佰伴，地铁直达）",
+        "latitude": "31.22971",
+        "longitude": "121.5182"
+      },
+      {
+        "cinemaName": "上海梅陇文化馆",
+        "cinemaId": "74",
+        "address": "上海市徐汇区梅陇路415号",
+        "latitude": "31.13811",
+        "longitude": "121.4191"
+      },
+      {
+        "cinemaName": "大地影院--上海梅陇",
+        "cinemaId": "75",
+        "address": "上海市闵行区莲花南路1500弄11号梅陇麦多广场11号2F",
+        "latitude": "31.09782",
+        "longitude": "121.4133"
+      },
+      {
+        "cinemaName": "黄浦剧场",
+        "cinemaId": "76",
+        "address": "北京东路780号（近西藏南路）",
+        "latitude": "31.23836",
+        "longitude": "121.4756"
+      },
+      {
+        "cinemaName": "上海浙江电影院",
+        "cinemaId": "77",
+        "address": "上海市浙江中路123号",
+        "latitude": "31.23209",
+        "longitude": "121.4798"
+      },
+      {
+        "cinemaName": "佰迦乐大光明影城新南店",
+        "cinemaId": "78",
+        "address": "上海市松江区新南路1号绿地金御广场4楼",
+        "latitude": "31.06039",
+        "longitude": "121.3229"
+      },
+      {
+        "cinemaName": "上海17.5影城南桥四季广场店",
+        "cinemaId": "79",
+        "address": "上海市奉贤区航南公路5000号1幢1-3号（嘎嘎酒吧旁）",
+        "latitude": "30.93167",
+        "longitude": "121.4712"
+      },
+      {
+        "cinemaName": "沪东工人文化宫影剧院",
+        "cinemaId": "80",
+        "address": "上海市杨浦区平凉路1500号一号楼",
+        "latitude": "31.26514",
+        "longitude": "121.539"
+      },
+      {
+        "cinemaName": "上海新光影艺苑",
+        "cinemaId": "81",
+        "address": "宁波路586号（南京路步行街食品一店后）",
+        "latitude": "31.2368",
+        "longitude": "121.4766"
+      },
+      {
+        "cinemaName": "星美正大国际影城",
+        "cinemaId": "83",
+        "address": "浦东陆家嘴西路168号正大广场8层",
+        "latitude": "31.23667",
+        "longitude": "121.4991"
+      },
+      {
+        "cinemaName": "上海庆春电影城",
+        "cinemaId": "84",
+        "address": "上海市徐汇区田林路140号15幢4座",
+        "latitude": "31.17013",
+        "longitude": "121.4123"
+      },
+      {
+        "cinemaName": "上海星美国际影城金山店",
+        "cinemaId": "85",
+        "address": "上海金山区卫清西路188号 301-1 302-2室",
+        "latitude": "30.73638",
+        "longitude": "121.3557"
+      },
+      {
+        "cinemaName": "星美国际影城",
+        "cinemaId": "86",
+        "address": "上海市虹口区海宁路330号",
+        "latitude": "31.25084",
+        "longitude": "121.486"
+      },
+      {
+        "cinemaName": "上海星美乐莫国际影城",
+        "cinemaId": "87",
+        "address": "上海市松江区环城路555号LOMO玩库3楼",
+        "latitude": "31.00578",
+        "longitude": "121.2555"
+      },
+      {
+        "cinemaName": "开元地中海影城",
+        "cinemaId": "88",
+        "address": "上海松江区新松江路927弄4042室（乐购超市4楼）",
+        "latitude": "31.03845",
+        "longitude": "121.2184"
+      },
+      {
+        "cinemaName": "上海万达影城",
+        "cinemaId": "89",
+        "address": "上海市杨浦区国宾路58号五角场万达商业广场三层",
+        "latitude": "31.30093",
+        "longitude": "121.513"
+      },
+      {
+        "cinemaName": "上影CGV莘庄影城",
+        "cinemaId": "90",
+        "address": "上海市闵行区都市路5001号仲盛世界商城四楼",
+        "latitude": "31.10838",
+        "longitude": "121.3876"
+      },
+      {
+        "cinemaName": "上海百丽宫影城（ifc商场店）",
+        "cinemaId": "91",
+        "address": "上海市浦东新区世纪大道8号上海国金中心商场地下一层",
+        "latitude": "31.23674",
+        "longitude": "121.5013"
+      },
+      {
+        "cinemaName": "CGV星聚汇影城上海安亭店",
+        "cinemaId": "93",
+        "address": "上海市嘉定区安亭镇墨玉路",
+        "latitude": "31.28823",
+        "longitude": "121.1626"
+      },
+      {
+        "cinemaName": "上海龙之梦影城",
+        "cinemaId": "94",
+        "address": "长宁路1018号龙之梦购物中心9楼",
+        "latitude": "31.2189",
+        "longitude": "121.416"
+      },
+      {
+        "cinemaName": "上影CGV大宁影城",
+        "cinemaId": "95",
+        "address": "上海市闸北区共和新路1878号大宁国际商业广场第2座3楼",
+        "latitude": "31.27345",
+        "longitude": "121.4527"
+      },
+      {
+        "cinemaName": "百丽宫影城（环贸iapm店）",
+        "cinemaId": "96",
+        "address": "上海市徐汇区淮海中路999号环贸广场L6-1",
+        "latitude": "31.21602",
+        "longitude": "121.4573"
+      },
+      {
+        "cinemaName": "大上海电影院",
+        "cinemaId": "97",
+        "address": "上海市西藏中路500号第一百货商店(新楼)8楼",
+        "latitude": "31.236",
+        "longitude": "121.4742"
+      },
+      {
+        "cinemaName": "上海星光影城",
+        "cinemaId": "98",
+        "address": "上海市普陀区长寿路401号亚新生活广场4楼",
+        "latitude": "31.23939",
+        "longitude": "121.4373"
+      },
+      {
+        "cinemaName": "上海美亚影城",
+        "cinemaId": "99",
+        "address": "上海市嘉定区宝安公路3718号永润星辰购物中心3层",
+        "latitude": "31.32681",
+        "longitude": "121.2673"
+      },
+      {
+        "cinemaName": "上海连赢影城",
+        "cinemaId": "100",
+        "address": "上海市闵行区光华路1号",
+        "latitude": "31.07227",
+        "longitude": "121.3982"
+      },
+      {
+        "cinemaName": "上海米格国际影城",
+        "cinemaId": "102",
+        "address": "上海市青浦区嘉松中路5999弄51号",
+        "latitude": "31.14437",
+        "longitude": "121.2295"
+      },
+      {
+        "cinemaName": "上海海上国际影城月星店",
+        "cinemaId": "103",
+        "address": "上海市普陀区中山北路3300号4楼",
+        "latitude": "31.2452",
+        "longitude": "121.4261"
+      },
+      {
+        "cinemaName": "上海百美汇影城",
+        "cinemaId": "104",
+        "address": "上海市静安区南京西路1551号 静安嘉里中心商场N4-01室",
+        "latitude": "31.22466",
+        "longitude": "121.4488"
+      },
+      {
+        "cinemaName": "上海沪西电影院",
+        "cinemaId": "105",
+        "address": "上海市普陀区万航渡路后路19号",
+        "latitude": "31.22935",
+        "longitude": "121.4267"
+      },
+      {
+        "cinemaName": "上海星濠国际影城（荣乐店）",
+        "cinemaId": "106",
+        "address": "上海市松江区荣乐中路8号卜蜂莲花二楼",
+        "latitude": "31.01774",
+        "longitude": "121.2411"
+      },
+      {
+        "cinemaName": "上海青浦永乐国际影城",
+        "cinemaId": "107",
+        "address": "上海市青浦区青松路37号",
+        "latitude": "31.14733",
+        "longitude": "121.1165"
+      },
+      {
+        "cinemaName": "同济横店影城",
+        "cinemaId": "108",
+        "address": "黄渡镇嘉松北路6130弄嘉实生活广场3层(同济大学边)",
+        "latitude": "31.28788",
+        "longitude": "121.2226"
+      },
+      {
+        "cinemaName": "上海普陀横店影城",
+        "cinemaId": "109",
+        "address": "上海市普陀区真南路1228号康建商务广场三楼",
+        "latitude": "31.27192",
+        "longitude": "121.376"
+      },
+      {
+        "cinemaName": "上海金球国际影城",
+        "cinemaId": "110",
+        "address": "上海市浦东新区唐镇上丰路1810号恒生商业广场B4幢",
+        "latitude": "31.23689",
+        "longitude": "121.6592"
+      },
+      {
+        "cinemaName": "上海松江麦希影院",
+        "cinemaId": "112",
+        "address": "上海松江区松江城区中山中路71号平高世贸4楼",
+        "latitude": "30.9996",
+        "longitude": "121.228"
+      },
+      {
+        "cinemaName": "上海上影江桥国际影城",
+        "cinemaId": "114",
+        "address": "上海市曹安公路2300弄288号新世界生活广场7号4楼",
+        "latitude": "31.26148",
+        "longitude": "121.3412"
+      },
+      {
+        "cinemaName": "兰馨·悦立方影城",
+        "cinemaId": "115",
+        "address": "上海市浦东新区张杨路400号",
+        "latitude": "31.22631",
+        "longitude": "121.5149"
+      },
+      {
+        "cinemaName": "CGV星星国际影城（大华店）",
+        "cinemaId": "116",
+        "address": "上海市宝山区大华路348号C区三楼 ",
+        "latitude": "31.26934",
+        "longitude": "121.4149"
+      },
+      {
+        "cinemaName": "上海红树林影院",
+        "cinemaId": "120",
+        "address": "上海市杨浦区长阳路1750号",
+        "latitude": "31.26977",
+        "longitude": "121.537"
+      },
+      {
+        "cinemaName": "朱泾大光明影城",
+        "cinemaId": "122",
+        "address": "朱泾人民路160号图书影视商厦5楼",
+        "latitude": "30.89696",
+        "longitude": "121.1669"
+      },
+      {
+        "cinemaName": "上海佰迦乐大光明广灵影城",
+        "cinemaId": "124",
+        "address": "上海虹口区广灵二路277号",
+        "latitude": "31.28395",
+        "longitude": "121.4748"
+      },
+      {
+        "cinemaName": "上海宝山横店影城",
+        "cinemaId": "125",
+        "address": "上海市宝山区淞宝路155弄71号一楼",
+        "latitude": "31.38164",
+        "longitude": "121.5005"
+      },
+      {
+        "cinemaName": "上海金逸院线施湾影城",
+        "cinemaId": "129",
+        "address": "上海浦东新区施新路802弄1号4层（绿地东海岸时代广场）",
+        "latitude": "31.14888",
+        "longitude": "121.7617"
+      },
+      {
+        "cinemaName": "上海艾米1895电影街",
+        "cinemaId": "130",
+        "address": "上海静安区北京西路1829号4楼",
+        "latitude": "31.22396",
+        "longitude": "121.4425"
+      },
+      {
+        "cinemaName": "保利国际影城曹路宝龙店 ",
+        "cinemaId": "3452",
+        "address": "曹路镇金海路2505弄宝龙城市广场C1-507",
+        "latitude": "31.26541",
+        "longitude": "121.6525"
+      },
+      {
+        "cinemaName": "华彩弘歌鑫都影城",
+        "cinemaId": "3455",
+        "address": "上海市闵行区颛桥镇鑫都路2538弄甲-2(鑫都商业广场1幢3层甲-2室)",
+        "latitude": "31.05672",
+        "longitude": "121.393"
+      },
+      {
+        "cinemaName": "金谊华夏影城",
+        "cinemaId": "3456",
+        "address": "上海浦东新区上南路4467号（中房金谊广场云桥下）",
+        "latitude": "0",
+        "longitude": "0"
+      },
+      {
+        "cinemaName": "星美国际影城（外高桥店）",
+        "cinemaId": "3590",
+        "address": "上海市浦东新区张杨北路2988号（森兰商都三楼）",
+        "latitude": "31.31238",
+        "longitude": "121.5908"
+      }
+    ]
+  }
+}
