@@ -1,0 +1,2093 @@
+{
+    "msg" : "ok",
+    "status" : 0,
+    "data" :{
+        "movieList": [
+
+
+
+
+
+
+
+{
+    "id": "20",
+    "name": "无间道",
+    "score": "9.2",
+    "follow": "981732人评价",
+    "info": "香港电影史上永不过时的杰作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg"
+}
+,
+{
+    "id": "21",
+    "name": "教父",
+    "score": "9.3",
+    "follow": "728797人评价",
+    "info": "千万不要记恨你的对手，这样会让你失去理智。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg"
+}
+,
+{
+    "id": "22",
+    "name": "当幸福来敲门",
+    "score": "9.1",
+    "follow": "1196027人评价",
+    "info": "平民励志片。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614359276.jpg"
+}
+,
+{
+    "id": "23",
+    "name": "龙猫",
+    "score": "9.2",
+    "follow": "994814人评价",
+    "info": "人人心中都有个龙猫，童年就永远不会消失。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg"
+}
+,
+{
+    "id": "24",
+    "name": "怦然心动",
+    "score": "9.1",
+    "follow": "1399344人评价",
+    "info": "真正的幸福是来自内心深处。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg"
+}
+,
+{
+    "id": "25",
+    "name": "触不可及",
+    "score": "9.2",
+    "follow": "774881人评价",
+    "info": "满满温情的高雅喜剧。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg"
+}
+,
+{
+    "id": "26",
+    "name": "控方证人",
+    "score": "9.6",
+    "follow": "333348人评价",
+    "info": "比利·怀德满分作品。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg"
+}
+,
+{
+    "id": "27",
+    "name": "蝙蝠侠：黑暗骑士",
+    "score": "9.2",
+    "follow": "811595人评价",
+    "info": "无尽的黑暗。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg"
+}
+,
+{
+    "id": "28",
+    "name": "活着",
+    "score": "9.3",
+    "follow": "630624人评价",
+    "info": "张艺谋最好的电影。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513253791.jpg"
+}
+,
+{
+    "id": "29",
+    "name": "末代皇帝",
+    "score": "9.3",
+    "follow": "605016人评价",
+    "info": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg"
+}
+,
+{
+    "id": "30",
+    "name": "寻梦环游记",
+    "score": "9.1",
+    "follow": "1214711人评价",
+    "info": "死亡不是真的逝去，遗忘才是永恒的消亡。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614500706.jpg"
+}
+,
+{
+    "id": "31",
+    "name": "乱世佳人",
+    "score": "9.3",
+    "follow": "535432人评价",
+    "info": "Tomorrow is another day.",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg"
+}
+,
+{
+    "id": "32",
+    "name": "何以为家",
+    "score": "9.1",
+    "follow": "766589人评价",
+    "info": "凝视卑弱生命，用电影改变命运。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg"
+}
+,
+{
+    "id": "33",
+    "name": "指环王3：王者无敌",
+    "score": "9.2",
+    "follow": "590467人评价",
+    "info": "史诗的终章。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p691932373.jpg"
+}
+,
+{
+    "id": "34",
+    "name": "摔跤吧！爸爸",
+    "score": "9.0",
+    "follow": "1227395人评价",
+    "info": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg"
+}
+,
+{
+    "id": "35",
+    "name": "飞屋环游记",
+    "score": "9.0",
+    "follow": "1041223人评价",
+    "info": "最后那些最无聊的事情，才是最值得怀念的。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p485887754.jpg"
+}
+,
+{
+    "id": "36",
+    "name": "哈利·波特与魔法石",
+    "score": "9.1",
+    "follow": "809484人评价",
+    "info": "童话世界的开端。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614949805.jpg"
+}
+,
+{
+    "id": "37",
+    "name": "少年派的奇幻漂流",
+    "score": "9.1",
+    "follow": "1100246人评价",
+    "info": "瑰丽壮观、无人能及的冒险之旅。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg"
+}
+,
+{
+    "id": "38",
+    "name": "素媛",
+    "score": "9.3",
+    "follow": "504214人评价",
+    "info": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg"
+}
+,
+{
+    "id": "39",
+    "name": "十二怒汉",
+    "score": "9.4",
+    "follow": "357815人评价",
+    "info": "1957年的理想主义。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg"
+}
+,
+{
+    "id": "40",
+    "name": "哈尔的移动城堡",
+    "score": "9.1",
+    "follow": "768827人评价",
+    "info": "带着心爱的人在天空飞翔。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg"
+}
+,
+{
+    "id": "41",
+    "name": "鬼子来了",
+    "score": "9.3",
+    "follow": "480951人评价",
+    "info": "对敌人的仁慈，就是对自己残忍。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg"
+}
+,
+{
+    "id": "42",
+    "name": "天空之城",
+    "score": "9.1",
+    "follow": "655790人评价",
+    "info": "对天空的追逐，永不停止。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg"
+}
+,
+{
+    "id": "43",
+    "name": "大话西游之月光宝盒",
+    "score": "9.0",
+    "follow": "950044人评价",
+    "info": "旷古烁今。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg"
+}
+,
+{
+    "id": "44",
+    "name": "我不是药神",
+    "score": "9.0",
+    "follow": "1632933人评价",
+    "info": "对我们国家而言，这样的电影多一部是一部。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg"
+}
+,
+{
+    "id": "45",
+    "name": "闻香识女人",
+    "score": "9.1",
+    "follow": "664169人评价",
+    "info": "史上最美的探戈。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg"
+}
+,
+{
+    "id": "46",
+    "name": "罗马假日",
+    "score": "9.0",
+    "follow": "758067人评价",
+    "info": "爱情哪怕只有一天。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg"
+}
+,
+{
+    "id": "47",
+    "name": "天堂电影院",
+    "score": "9.2",
+    "follow": "504363人评价",
+    "info": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559577569.jpg"
+}
+,
+{
+    "id": "48",
+    "name": "辩护人",
+    "score": "9.2",
+    "follow": "475269人评价",
+    "info": "电影的现实意义大过电影本身。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg"
+}
+,
+{
+    "id": "49",
+    "name": "猫鼠游戏",
+    "score": "9.0",
+    "follow": "665056人评价",
+    "info": "骗子大师和执著警探的你追我跑故事。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg"
+}
+,
+{
+    "id": "50",
+    "name": "搏击俱乐部",
+    "score": "9.0",
+    "follow": "674219人评价",
+    "info": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg"
+}
+,
+{
+    "id": "51",
+    "name": "大闹天宫",
+    "score": "9.4",
+    "follow": "314552人评价",
+    "info": "经典之作，历久弥新。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg"
+}
+,
+{
+    "id": "52",
+    "name": "教父2",
+    "score": "9.2",
+    "follow": "407304人评价",
+    "info": "优雅的孤独。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg"
+}
+,
+{
+    "id": "53",
+    "name": "狮子王",
+    "score": "9.0",
+    "follow": "637653人评价",
+    "info": "动物版《哈姆雷特》。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2277799019.jpg"
+}
+,
+{
+    "id": "54",
+    "name": "指环王2：双塔奇兵",
+    "score": "9.1",
+    "follow": "538538人评价",
+    "info": "承前启后的史诗篇章。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg"
+}
+,
+{
+    "id": "55",
+    "name": "死亡诗社",
+    "score": "9.1",
+    "follow": "539530人评价",
+    "info": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg"
+}
+,
+{
+    "id": "56",
+    "name": "钢琴家",
+    "score": "9.2",
+    "follow": "418845人评价",
+    "info": "音乐能化解仇恨。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792376093.jpg"
+}
+,
+{
+    "id": "57",
+    "name": "黑客帝国",
+    "score": "9.0",
+    "follow": "616604人评价",
+    "info": "视觉革命。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg"
+}
+,
+{
+    "id": "58",
+    "name": "指环王1：魔戒再现",
+    "score": "9.0",
+    "follow": "604652人评价",
+    "info": "传说的开始。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg"
+}
+,
+{
+    "id": "59",
+    "name": "窃听风暴",
+    "score": "9.1",
+    "follow": "439776人评价",
+    "info": "别样人生。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg"
+}
+,
+{
+    "id": "60",
+    "name": "饮食男女",
+    "score": "9.1",
+    "follow": "450746人评价",
+    "info": "人生不能像做菜，把所有的料都准备好了才下锅。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg"
+}
+,
+{
+    "id": "61",
+    "name": "美丽心灵",
+    "score": "9.0",
+    "follow": "588734人评价",
+    "info": "爱是一切逻辑和原由。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg"
+}
+,
+{
+    "id": "62",
+    "name": "让子弹飞",
+    "score": "8.8",
+    "follow": "1255358人评价",
+    "info": "你给我翻译翻译，神马叫做TMD的惊喜。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg"
+}
+,
+{
+    "id": "63",
+    "name": "两杆大烟枪",
+    "score": "9.1",
+    "follow": "473532人评价",
+    "info": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg"
+}
+,
+{
+    "id": "64",
+    "name": "绿皮书",
+    "score": "8.9",
+    "follow": "1200975人评价",
+    "info": "去除成见，需要勇气。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549177902.jpg"
+}
+,
+{
+    "id": "65",
+    "name": "本杰明·巴顿奇事",
+    "score": "8.9",
+    "follow": "765609人评价",
+    "info": "在时间之河里感受溺水之苦。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg"
+}
+,
+{
+    "id": "66",
+    "name": "飞越疯人院",
+    "score": "9.1",
+    "follow": "456800人评价",
+    "info": "自由万岁。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg"
+}
+,
+{
+    "id": "67",
+    "name": "海蒂和爷爷",
+    "score": "9.2",
+    "follow": "332811人评价",
+    "info": "如果生活中有什么使你感到快乐，那就去做吧！不要管别人说什么。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg"
+}
+,
+{
+    "id": "68",
+    "name": "看不见的客人",
+    "score": "8.8",
+    "follow": "927163人评价",
+    "info": "你以为你以为的就是你以为的。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg"
+}
+,
+{
+    "id": "69",
+    "name": "西西里的美丽传说",
+    "score": "8.9",
+    "follow": "759043人评价",
+    "info": "美丽无罪。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg"
+}
+,
+{
+    "id": "70",
+    "name": "拯救大兵瑞恩",
+    "score": "9.0",
+    "follow": "502152人评价",
+    "info": "美利坚精神输出大片No1.",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg"
+}
+,
+{
+    "id": "71",
+    "name": "小鞋子",
+    "score": "9.2",
+    "follow": "314050人评价",
+    "info": "奔跑的孩子是天使。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg"
+}
+,
+{
+    "id": "72",
+    "name": "穿条纹睡衣的男孩",
+    "score": "9.1",
+    "follow": "391891人评价",
+    "info": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg"
+}
+,
+{
+    "id": "73",
+    "name": "情书",
+    "score": "8.9",
+    "follow": "701677人评价",
+    "info": "暗恋的极致。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg"
+}
+,
+{
+    "id": "74",
+    "name": "音乐之声",
+    "score": "9.0",
+    "follow": "463663人评价",
+    "info": "用音乐化解仇恨，让歌声串起美好。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg"
+}
+,
+{
+    "id": "75",
+    "name": "海豚湾",
+    "score": "9.3",
+    "follow": "300045人评价",
+    "info": "海豚的微笑，是世界上最高明的伪装。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559579779.jpg"
+}
+,
+{
+    "id": "76",
+    "name": "美国往事",
+    "score": "9.2",
+    "follow": "324731人评价",
+    "info": "往事如烟，无处祭奠。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg"
+}
+,
+{
+    "id": "77",
+    "name": "致命魔术",
+    "score": "8.9",
+    "follow": "668915人评价",
+    "info": "孪生蝙蝠侠大战克隆金刚狼。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg"
+}
+,
+{
+    "id": "78",
+    "name": "沉默的羔羊",
+    "score": "8.9",
+    "follow": "659298人评价",
+    "info": "安东尼·霍普金斯的顶级表演。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg"
+}
+,
+{
+    "id": "79",
+    "name": "低俗小说",
+    "score": "8.9",
+    "follow": "645785人评价",
+    "info": "故事的高级讲法。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg"
+}
+,
+{
+    "id": "80",
+    "name": "禁闭岛",
+    "score": "8.8",
+    "follow": "732367人评价",
+    "info": "昔日翩翩少年，今日大腹便便。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg"
+}
+,
+{
+    "id": "81",
+    "name": "蝴蝶效应",
+    "score": "8.8",
+    "follow": "724496人评价",
+    "info": "人的命运被自己瞬间的抉择改变。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg"
+}
+,
+{
+    "id": "82",
+    "name": "七宗罪",
+    "score": "8.8",
+    "follow": "756243人评价",
+    "info": "警察抓小偷，老鼠玩死猫。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg"
+}
+,
+{
+    "id": "83",
+    "name": "心灵捕手",
+    "score": "8.9",
+    "follow": "544395人评价",
+    "info": "人生中应该拥有这样的一段豁然开朗。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg"
+}
+,
+{
+    "id": "84",
+    "name": "布达佩斯大饭店",
+    "score": "8.9",
+    "follow": "688089人评价",
+    "info": "小清新的故事里注入了大历史的情怀。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg"
+}
+,
+{
+    "id": "85",
+    "name": "春光乍泄",
+    "score": "8.9",
+    "follow": "486070人评价",
+    "info": "爱情纠缠，男女一致。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg"
+}
+,
+{
+    "id": "86",
+    "name": "摩登时代",
+    "score": "9.3",
+    "follow": "221420人评价",
+    "info": "大时代中的人生，小人物的悲喜。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg"
+}
+,
+{
+    "id": "87",
+    "name": "被嫌弃的松子的一生",
+    "score": "8.9",
+    "follow": "575645人评价",
+    "info": "以戏谑来戏谑戏谑。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg"
+}
+,
+{
+    "id": "88",
+    "name": "阿凡达",
+    "score": "8.7",
+    "follow": "1022441人评价",
+    "info": "绝对意义上的美轮美奂。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg"
+}
+,
+{
+    "id": "89",
+    "name": "哈利·波特与死亡圣器(下)",
+    "score": "8.9",
+    "follow": "597753人评价",
+    "info": "10年的完美句点。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg"
+}
+,
+{
+    "id": "90",
+    "name": "喜剧之王",
+    "score": "8.8",
+    "follow": "738277人评价",
+    "info": "我是一个演员。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg"
+}
+,
+{
+    "id": "91",
+    "name": "剪刀手爱德华",
+    "score": "8.7",
+    "follow": "860603人评价",
+    "info": "浪漫忧郁的成人童话。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg"
+}
+,
+{
+    "id": "92",
+    "name": "致命ID",
+    "score": "8.8",
+    "follow": "618242人评价",
+    "info": "最不可能的那个人永远是最可能的。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg"
+}
+,
+{
+    "id": "93",
+    "name": "勇敢的心",
+    "score": "8.9",
+    "follow": "471987人评价",
+    "info": "史诗大片的典范。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg"
+}
+,
+{
+    "id": "94",
+    "name": "加勒比海盗",
+    "score": "8.8",
+    "follow": "682688人评价",
+    "info": "约翰尼·德普的独角戏。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg"
+}
+,
+{
+    "id": "95",
+    "name": "杀人回忆",
+    "score": "8.9",
+    "follow": "521668人评价",
+    "info": "关于连环杀人悬案的集体回忆。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p657823840.jpg"
+}
+,
+{
+    "id": "96",
+    "name": "狩猎",
+    "score": "9.1",
+    "follow": "285482人评价",
+    "info": "人言可畏。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg"
+}
+,
+{
+    "id": "97",
+    "name": "天使爱美丽",
+    "score": "8.7",
+    "follow": "816502人评价",
+    "info": "法式小清新。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2447590313.jpg"
+}
+,
+{
+    "id": "98",
+    "name": "请以你的名字呼唤我",
+    "score": "8.9",
+    "follow": "512725人评价",
+    "info": "沉醉在电影的情感和视听氛围中无法自拔。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg"
+}
+,
+{
+    "id": "99",
+    "name": "断背山",
+    "score": "8.8",
+    "follow": "572977人评价",
+    "info": "每个人心中都有一座断背山。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2604889017.jpg"
+}
+,
+{
+    "id": "100",
+    "name": "7号房的礼物",
+    "score": "8.9",
+    "follow": "416397人评价",
+    "info": "《我是山姆》的《美丽人生》。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg"
+}
+,
+{
+    "id": "101",
+    "name": "红辣椒",
+    "score": "9.0",
+    "follow": "321847人评价",
+    "info": "梦的勾结。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456825720.jpg"
+}
+,
+{
+    "id": "102",
+    "name": "幽灵公主",
+    "score": "8.9",
+    "follow": "422305人评价",
+    "info": "人与自然的战争史诗。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg"
+}
+,
+{
+    "id": "103",
+    "name": "小森林 夏秋篇",
+    "score": "9.0",
+    "follow": "328364人评价",
+    "info": "那些静得只能听见呼吸的日子里，你明白孤独即生活。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564498893.jpg"
+}
+,
+{
+    "id": "104",
+    "name": "阳光灿烂的日子",
+    "score": "8.8",
+    "follow": "486859人评价",
+    "info": "一场华丽的意淫。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg"
+}
+,
+{
+    "id": "105",
+    "name": "第六感",
+    "score": "8.9",
+    "follow": "426500人评价",
+    "info": "深入内心的恐怖，出人意料的结局。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg"
+}
+,
+{
+    "id": "106",
+    "name": "重庆森林",
+    "score": "8.7",
+    "follow": "617055人评价",
+    "info": "寂寞没有期限。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg"
+}
+,
+{
+    "id": "107",
+    "name": "入殓师",
+    "score": "8.9",
+    "follow": "468517人评价",
+    "info": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1583839859.jpg"
+}
+,
+{
+    "id": "108",
+    "name": "小森林 冬春篇",
+    "score": "9.0",
+    "follow": "293254人评价",
+    "info": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg"
+}
+,
+{
+    "id": "109",
+    "name": "唐伯虎点秋香",
+    "score": "8.6",
+    "follow": "807662人评价",
+    "info": "华太师是黄霑，吴镇宇四大才子之一。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg"
+}
+,
+{
+    "id": "110",
+    "name": "爱在黎明破晓前",
+    "score": "8.8",
+    "follow": "473105人评价",
+    "info": "缘分是个连绵词，最美不过一瞬。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2555762374.jpg"
+}
+,
+{
+    "id": "111",
+    "name": "消失的爱人",
+    "score": "8.7",
+    "follow": "698513人评价",
+    "info": "年度最佳date movie。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg"
+}
+,
+{
+    "id": "112",
+    "name": "一一",
+    "score": "9.0",
+    "follow": "276360人评价",
+    "info": "我们都曾经是一一。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg"
+}
+,
+{
+    "id": "113",
+    "name": "蝙蝠侠：黑暗骑士崛起",
+    "score": "8.8",
+    "follow": "558249人评价",
+    "info": "诺兰就是保证。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg"
+}
+,
+{
+    "id": "114",
+    "name": "超脱",
+    "score": "8.9",
+    "follow": "367643人评价",
+    "info": "穷尽一生，我们要学会的，不过是彼此拥抱。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg"
+}
+,
+{
+    "id": "115",
+    "name": "菊次郎的夏天",
+    "score": "8.8",
+    "follow": "436443人评价",
+    "info": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2620392435.jpg"
+}
+,
+{
+    "id": "116",
+    "name": "侧耳倾听",
+    "score": "8.9",
+    "follow": "358139人评价",
+    "info": "少女情怀总是诗。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg"
+}
+,
+{
+    "id": "117",
+    "name": "倩女幽魂",
+    "score": "8.7",
+    "follow": "568244人评价",
+    "info": "两张绝世的脸。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg"
+}
+,
+{
+    "id": "118",
+    "name": "无人知晓",
+    "score": "9.1",
+    "follow": "220555人评价",
+    "info": "我的平常生活就是他人的幸福。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg"
+}
+,
+{
+    "id": "119",
+    "name": "超能陆战队",
+    "score": "8.7",
+    "follow": "778486人评价",
+    "info": "Balalala~~~",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614500883.jpg"
+}
+,
+{
+    "id": "120",
+    "name": "功夫",
+    "score": "8.6",
+    "follow": "768256人评价",
+    "info": "警恶惩奸，维护世界和平这个任务就交给你了，好吗？",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg"
+}
+,
+{
+    "id": "121",
+    "name": "甜蜜蜜",
+    "score": "8.8",
+    "follow": "404452人评价",
+    "info": "相逢只要一瞬间，等待却像是一辈子。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2223011274.jpg"
+}
+,
+{
+    "id": "122",
+    "name": "萤火之森",
+    "score": "8.9",
+    "follow": "394628人评价",
+    "info": "触不到的恋人。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1675053073.jpg"
+}
+,
+{
+    "id": "123",
+    "name": "借东西的小人阿莉埃蒂",
+    "score": "8.8",
+    "follow": "423772人评价",
+    "info": "曾经的那段美好会沉淀为一辈子的记忆。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg"
+}
+,
+{
+    "id": "124",
+    "name": "玛丽和马克思",
+    "score": "8.9",
+    "follow": "352368人评价",
+    "info": "你是我最好的朋友，你是我唯一的朋友 。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2162822165.jpg"
+}
+,
+{
+    "id": "125",
+    "name": "人生果实",
+    "score": "9.5",
+    "follow": "119235人评价",
+    "info": "土壤没有落叶不会肥沃，没有了你就不算人生。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2544912792.jpg"
+}
+,
+{
+    "id": "126",
+    "name": "驯龙高手",
+    "score": "8.7",
+    "follow": "595661人评价",
+    "info": "和谐的生活离不开摸头与被摸头。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg"
+}
+,
+{
+    "id": "127",
+    "name": "爱在日落黄昏时",
+    "score": "8.8",
+    "follow": "396812人评价",
+    "info": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561542458.jpg"
+}
+,
+{
+    "id": "128",
+    "name": "告白",
+    "score": "8.7",
+    "follow": "564272人评价",
+    "info": "没有一人完全善，也没有一人完全恶。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg"
+}
+,
+{
+    "id": "129",
+    "name": "幸福终点站",
+    "score": "8.8",
+    "follow": "423961人评价",
+    "info": "有时候幸福需要等一等。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p854757687.jpg"
+}
+,
+{
+    "id": "130",
+    "name": "大鱼",
+    "score": "8.8",
+    "follow": "451826人评价",
+    "info": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg"
+}
+,
+{
+    "id": "131",
+    "name": "完美的世界",
+    "score": "9.1",
+    "follow": "209561人评价",
+    "info": "坏人的好总是比好人的好来得更感人。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2190556408.jpg"
+}
+,
+{
+    "id": "132",
+    "name": "阳光姐妹淘",
+    "score": "8.8",
+    "follow": "486984人评价",
+    "info": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg"
+}
+,
+{
+    "id": "133",
+    "name": "射雕英雄传之东成西就",
+    "score": "8.7",
+    "follow": "506906人评价",
+    "info": "百看不厌。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2609063925.jpg"
+}
+,
+{
+    "id": "134",
+    "name": "恐怖直播",
+    "score": "8.8",
+    "follow": "501007人评价",
+    "info": "恐怖分子的“秋菊打官司”。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg"
+}
+,
+{
+    "id": "135",
+    "name": "哈利·波特与阿兹卡班的囚徒",
+    "score": "8.8",
+    "follow": "466193人评价",
+    "info": "不一样的导演，不一样的哈利·波特。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910812549.jpg"
+}
+,
+{
+    "id": "136",
+    "name": "天书奇谭",
+    "score": "9.2",
+    "follow": "173814人评价",
+    "info": "传奇的年代，醉人的童话。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2515539487.jpg"
+}
+,
+{
+    "id": "137",
+    "name": "怪兽电力公司",
+    "score": "8.7",
+    "follow": "506396人评价",
+    "info": "不要给它起名字，起了名字就有感情了。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg"
+}
+,
+{
+    "id": "138",
+    "name": "神偷奶爸",
+    "score": "8.6",
+    "follow": "761024人评价",
+    "info": "Mr. I Don't Care其实也有Care的时候。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg"
+}
+,
+{
+    "id": "139",
+    "name": "玩具总动员3",
+    "score": "8.8",
+    "follow": "391961人评价",
+    "info": "跨度十五年的欢乐与泪水。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg"
+}
+,
+{
+    "id": "140",
+    "name": "傲慢与偏见",
+    "score": "8.6",
+    "follow": "601730人评价",
+    "info": "爱是摈弃傲慢与偏见之后的曙光。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg"
+}
+,
+{
+    "id": "141",
+    "name": "时空恋旅人",
+    "score": "8.8",
+    "follow": "441362人评价",
+    "info": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg"
+}
+,
+{
+    "id": "142",
+    "name": "教父3",
+    "score": "8.9",
+    "follow": "271583人评价",
+    "info": "任何信念的力量，都无法改变命运。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg"
+}
+,
+{
+    "id": "143",
+    "name": "血战钢锯岭",
+    "score": "8.7",
+    "follow": "626936人评价",
+    "info": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg"
+}
+,
+{
+    "id": "144",
+    "name": "釜山行",
+    "score": "8.5",
+    "follow": "903104人评价",
+    "info": "揭露人性的丧尸题材力作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2360940399.jpg"
+}
+,
+{
+    "id": "145",
+    "name": "哈利·波特与密室",
+    "score": "8.7",
+    "follow": "488636人评价",
+    "info": "魔法的密室之门已打开...",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg"
+}
+,
+{
+    "id": "146",
+    "name": "哪吒闹海",
+    "score": "9.1",
+    "follow": "194275人评价",
+    "info": "想你时你在闹海。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg"
+}
+,
+{
+    "id": "147",
+    "name": "被解救的姜戈",
+    "score": "8.7",
+    "follow": "470642人评价",
+    "info": "热血沸腾，那个低俗、性感的无耻混蛋又来了。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1800813767.jpg"
+}
+,
+{
+    "id": "148",
+    "name": "风之谷",
+    "score": "8.9",
+    "follow": "296329人评价",
+    "info": "动画片的圣经。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg"
+}
+,
+{
+    "id": "149",
+    "name": "喜宴",
+    "score": "8.9",
+    "follow": "263200人评价",
+    "info": "中国家庭的喜怒哀乐忍。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2173713676.jpg"
+}
+,
+{
+    "id": "150",
+    "name": "七武士",
+    "score": "9.3",
+    "follow": "147599人评价",
+    "info": "时代悲歌。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2215886505.jpg"
+}
+,
+{
+    "id": "151",
+    "name": "电锯惊魂",
+    "score": "8.7",
+    "follow": "397944人评价",
+    "info": "真相就在眼前。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565332644.jpg"
+}
+,
+{
+    "id": "152",
+    "name": "一个叫欧维的男人决定去死",
+    "score": "8.9",
+    "follow": "312187人评价",
+    "info": "惠及一生的美丽。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg"
+}
+,
+{
+    "id": "153",
+    "name": "我是山姆",
+    "score": "8.9",
+    "follow": "240773人评价",
+    "info": "爱并不需要智商 。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg"
+}
+,
+{
+    "id": "154",
+    "name": "英雄本色",
+    "score": "8.7",
+    "follow": "398266人评价",
+    "info": "英雄泪短，兄弟情长。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg"
+}
+,
+{
+    "id": "155",
+    "name": "上帝之城",
+    "score": "9.0",
+    "follow": "243620人评价",
+    "info": "被上帝抛弃了的上帝之城。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg"
+}
+,
+{
+    "id": "156",
+    "name": "头号玩家",
+    "score": "8.6",
+    "follow": "1091364人评价",
+    "info": "写给影迷，动漫迷和游戏迷的一封情书。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg"
+}
+,
+{
+    "id": "157",
+    "name": "谍影重重3",
+    "score": "8.8",
+    "follow": "334257人评价",
+    "info": "像吃了苏打饼一样干脆的电影。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg"
+}
+,
+{
+    "id": "158",
+    "name": "疯狂原始人",
+    "score": "8.7",
+    "follow": "675753人评价",
+    "info": "老少皆宜，这就是好莱坞动画的魅力。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg"
+}
+,
+{
+    "id": "159",
+    "name": "岁月神偷",
+    "score": "8.7",
+    "follow": "484994人评价",
+    "info": "岁月流逝，来日可追。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg"
+}
+,
+{
+    "id": "160",
+    "name": "纵横四海",
+    "score": "8.8",
+    "follow": "317515人评价",
+    "info": "香港浪漫主义警匪动作片的巅峰之作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2597918718.jpg"
+}
+,
+{
+    "id": "161",
+    "name": "未麻的部屋",
+    "score": "9.0",
+    "follow": "217275人评价",
+    "info": "好的剧本是，就算你猜到了结局也猜不到全部。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg"
+}
+,
+{
+    "id": "162",
+    "name": "卢旺达饭店",
+    "score": "8.9",
+    "follow": "236847人评价",
+    "info": "当这个世界闭上双眼，他却敞开了怀抱。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p470419493.jpg"
+}
+,
+{
+    "id": "163",
+    "name": "三块广告牌",
+    "score": "8.7",
+    "follow": "649211人评价",
+    "info": "怼天怼地，你走后，她与世界为敌。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg"
+}
+,
+{
+    "id": "164",
+    "name": "达拉斯买家俱乐部",
+    "score": "8.8",
+    "follow": "350947人评价",
+    "info": "Jared Leto的腿比女人还美！",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg"
+}
+,
+{
+    "id": "165",
+    "name": "花样年华",
+    "score": "8.7",
+    "follow": "447928人评价",
+    "info": "偷情本没有这样美。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg"
+}
+,
+{
+    "id": "166",
+    "name": "心迷宫",
+    "score": "8.7",
+    "follow": "384210人评价",
+    "info": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2276780256.jpg"
+}
+,
+{
+    "id": "167",
+    "name": "记忆碎片",
+    "score": "8.6",
+    "follow": "484190人评价",
+    "info": "一个针管引发的血案。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg"
+}
+,
+{
+    "id": "168",
+    "name": "模仿游戏",
+    "score": "8.7",
+    "follow": "475335人评价",
+    "info": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg"
+}
+,
+{
+    "id": "169",
+    "name": "黑客帝国3：矩阵革命",
+    "score": "8.8",
+    "follow": "330637人评价",
+    "info": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg"
+}
+,
+{
+    "id": "170",
+    "name": "你的名字。",
+    "score": "8.4",
+    "follow": "1075917人评价",
+    "info": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg"
+}
+,
+{
+    "id": "171",
+    "name": "新世界",
+    "score": "8.8",
+    "follow": "273205人评价",
+    "info": "要做就做得狠一点，这样才能活下去。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1903379979.jpg"
+}
+,
+{
+    "id": "172",
+    "name": "荒蛮故事",
+    "score": "8.8",
+    "follow": "330308人评价",
+    "info": "始于荒诞，止于更荒诞。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2584519452.jpg"
+}
+,
+{
+    "id": "173",
+    "name": "真爱至上",
+    "score": "8.6",
+    "follow": "570469人评价",
+    "info": "爱，是个动词。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg"
+}
+,
+{
+    "id": "174",
+    "name": "忠犬八公物语",
+    "score": "9.2",
+    "follow": "146293人评价",
+    "info": "养狗三日，便会对你终其一生。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1576418852.jpg"
+}
+,
+{
+    "id": "175",
+    "name": "爆裂鼓手",
+    "score": "8.7",
+    "follow": "437879人评价",
+    "info": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg"
+}
+,
+{
+    "id": "176",
+    "name": "萤火虫之墓",
+    "score": "8.7",
+    "follow": "339865人评价",
+    "info": "幸福是生生不息，却难以触及的远。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1157334208.jpg"
+}
+,
+{
+    "id": "177",
+    "name": "贫民窟的百万富翁",
+    "score": "8.6",
+    "follow": "603082人评价",
+    "info": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg"
+}
+,
+{
+    "id": "178",
+    "name": "东邪西毒",
+    "score": "8.6",
+    "follow": "466692人评价",
+    "info": "电影诗。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg"
+}
+,
+{
+    "id": "179",
+    "name": "头脑特工队",
+    "score": "8.7",
+    "follow": "455541人评价",
+    "info": "愿我们都不用长大，每一座城堡都能永远存在。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg"
+}
+,
+{
+    "id": "180",
+    "name": "黑天鹅",
+    "score": "8.6",
+    "follow": "666300人评价",
+    "info": "黑暗之美。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549648344.jpg"
+}
+,
+{
+    "id": "181",
+    "name": "海街日记",
+    "score": "8.8",
+    "follow": "315988人评价",
+    "info": "是枝裕和的家庭习作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2603364117.jpg"
+}
+,
+{
+    "id": "182",
+    "name": "惊魂记",
+    "score": "9.0",
+    "follow": "190836人评价",
+    "info": "故事的反转与反转，分裂电影的始祖。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg"
+}
+,
+{
+    "id": "183",
+    "name": "你看起来好像很好吃",
+    "score": "8.9",
+    "follow": "265738人评价",
+    "info": "感情不分食草或者食肉。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg"
+}
+,
+{
+    "id": "184",
+    "name": "无敌破坏王",
+    "score": "8.7",
+    "follow": "414627人评价",
+    "info": "迪士尼和皮克斯拿错剧本的产物。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg"
+}
+,
+{
+    "id": "185",
+    "name": "冰川时代",
+    "score": "8.6",
+    "follow": "491900人评价",
+    "info": "松鼠才是角儿。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg"
+}
+,
+{
+    "id": "186",
+    "name": "雨人",
+    "score": "8.7",
+    "follow": "327404人评价",
+    "info": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2353324612.jpg"
+}
+,
+{
+    "id": "187",
+    "name": "恋恋笔记本",
+    "score": "8.5",
+    "follow": "515241人评价",
+    "info": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg"
+}
+,
+{
+    "id": "188",
+    "name": "小偷家族",
+    "score": "8.7",
+    "follow": "644202人评价",
+    "info": "我们组成了家。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2530599636.jpg"
+}
+,
+{
+    "id": "189",
+    "name": "绿里奇迹",
+    "score": "8.9",
+    "follow": "227760人评价",
+    "info": "天使暂时离开。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg"
+}
+,
+{
+    "id": "190",
+    "name": "爱在午夜降临前",
+    "score": "8.8",
+    "follow": "264421人评价",
+    "info": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg"
+}
+,
+{
+    "id": "191",
+    "name": "疯狂的石头",
+    "score": "8.5",
+    "follow": "626782人评价",
+    "info": "中国版《两杆大烟枪》。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg"
+}
+,
+{
+    "id": "192",
+    "name": "恐怖游轮",
+    "score": "8.5",
+    "follow": "619260人评价",
+    "info": "不要企图在重复中寻找已经失去的爱。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg"
+}
+,
+{
+    "id": "193",
+    "name": "奇迹男孩",
+    "score": "8.6",
+    "follow": "449432人评价",
+    "info": "世界不完美，爱会有奇迹。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2507709428.jpg"
+}
+,
+{
+    "id": "194",
+    "name": "雨中曲",
+    "score": "9.0",
+    "follow": "161310人评价",
+    "info": "骨灰级歌舞片。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg"
+}
+,
+{
+    "id": "195",
+    "name": "二十二",
+    "score": "8.7",
+    "follow": "230532人评价",
+    "info": "有一些东西不应该被遗忘。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg"
+}
+,
+{
+    "id": "196",
+    "name": "魔女宅急便",
+    "score": "8.6",
+    "follow": "360563人评价",
+    "info": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg"
+}
+,
+{
+    "id": "197",
+    "name": "哈利·波特与火焰杯",
+    "score": "8.6",
+    "follow": "419509人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p735391084.jpg"
+}
+,
+{
+    "id": "198",
+    "name": "海边的曼彻斯特",
+    "score": "8.6",
+    "follow": "378647人评价",
+    "info": "我们都有权利不与自己的过去和解。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2421855655.jpg"
+}
+,
+{
+    "id": "199",
+    "name": "房间",
+    "score": "8.8",
+    "follow": "309063人评价",
+    "info": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg"
+}
+,
+{
+    "id": "200",
+    "name": "虎口脱险",
+    "score": "8.9",
+    "follow": "184944人评价",
+    "info": "永远看不腻的喜剧。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg"
+}
+,
+{
+    "id": "201",
+    "name": "人工智能",
+    "score": "8.7",
+    "follow": "343453人评价",
+    "info": "对爱的执着，可以超越一切。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg"
+}
+,
+{
+    "id": "202",
+    "name": "罗生门",
+    "score": "8.8",
+    "follow": "238334人评价",
+    "info": "人生的N种可能性。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1598883511.jpg"
+}
+,
+{
+    "id": "203",
+    "name": "可可西里",
+    "score": "8.8",
+    "follow": "230765人评价",
+    "info": "坚硬的信仰。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg"
+}
+,
+{
+    "id": "204",
+    "name": "2001太空漫游",
+    "score": "8.8",
+    "follow": "225453人评价",
+    "info": "现代科幻电影的开山之作，最伟大导演的最伟大影片。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2560717825.jpg"
+}
+,
+{
+    "id": "205",
+    "name": "终结者2：审判日",
+    "score": "8.7",
+    "follow": "273776人评价",
+    "info": "少见的超越首部的续集，动作片中的经典。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg"
+}
+,
+{
+    "id": "206",
+    "name": "寄生虫",
+    "score": "8.7",
+    "follow": "1062203人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg"
+}
+,
+{
+    "id": "207",
+    "name": "九品芝麻官",
+    "score": "8.6",
+    "follow": "450071人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg"
+}
+,
+{
+    "id": "208",
+    "name": "初恋这件小事",
+    "score": "8.4",
+    "follow": "811906人评价",
+    "info": "黑小鸭速效美白记。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg"
+}
+,
+{
+    "id": "209",
+    "name": "城市之光",
+    "score": "9.3",
+    "follow": "102179人评价",
+    "info": "永远的小人物，伟大的卓别林。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2170238828.jpg"
+}
+,
+{
+    "id": "210",
+    "name": "色，戒",
+    "score": "8.5",
+    "follow": "541186人评价",
+    "info": "假戏真情，爱欲深海",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p453716305.jpg"
+}
+,
+{
+    "id": "211",
+    "name": "魂断蓝桥",
+    "score": "8.8",
+    "follow": "217055人评价",
+    "info": "中国式内在的美国电影。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg"
+}
+,
+{
+    "id": "212",
+    "name": "牯岭街少年杀人事件",
+    "score": "8.8",
+    "follow": "202269人评价",
+    "info": "弱者送给弱者的一刀。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg"
+}
+,
+{
+    "id": "213",
+    "name": "遗愿清单",
+    "score": "8.7",
+    "follow": "304202人评价",
+    "info": "用剩余不多的时间，去燃烧整个生命。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1208653481.jpg"
+}
+,
+{
+    "id": "214",
+    "name": "新龙门客栈",
+    "score": "8.6",
+    "follow": "345263人评价",
+    "info": "嬉笑怒骂，调风动月。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg"
+}
+,
+{
+    "id": "215",
+    "name": "大佛普拉斯",
+    "score": "8.7",
+    "follow": "310192人评价",
+    "info": "人们可以登上月球，却永远无法探索人们内心的宇宙。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg"
+}
+,
+{
+    "id": "216",
+    "name": "海洋",
+    "score": "9.1",
+    "follow": "135809人评价",
+    "info": "大海啊，不全是水。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2559581324.jpg"
+}
+,
+{
+    "id": "217",
+    "name": "源代码",
+    "score": "8.5",
+    "follow": "647559人评价",
+    "info": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg"
+}
+,
+{
+    "id": "218",
+    "name": "青蛇",
+    "score": "8.6",
+    "follow": "401442人评价",
+    "info": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2570901292.jpg"
+}
+,
+{
+    "id": "219",
+    "name": "燃情岁月",
+    "score": "8.8",
+    "follow": "230145人评价",
+    "info": "传奇，不是每个人都可以拥有。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg"
+}
+,
+{
+    "id": "220",
+    "name": "无耻混蛋",
+    "score": "8.6",
+    "follow": "375942人评价",
+    "info": "昆汀同学越来越变态了，比北野武还杜琪峰。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2575043939.jpg"
+}
+,
+{
+    "id": "221",
+    "name": "波西米亚狂想曲",
+    "score": "8.7",
+    "follow": "449812人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg"
+}
+,
+{
+    "id": "222",
+    "name": "穿越时空的少女",
+    "score": "8.6",
+    "follow": "313666人评价",
+    "info": "爱上未来的你。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg"
+}
+,
+{
+    "id": "223",
+    "name": "血钻",
+    "score": "8.7",
+    "follow": "282280人评价",
+    "info": "每个美丽事物背后都是滴血的现实。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg"
+}
+,
+{
+    "id": "224",
+    "name": "疯狂的麦克斯4：狂暴之路",
+    "score": "8.6",
+    "follow": "404430人评价",
+    "info": "“多么美好的一天！”轰轰轰砰咚，啪哒哒哒轰隆隆，磅~",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg"
+}
+,
+{
+    "id": "225",
+    "name": "步履不停",
+    "score": "8.8",
+    "follow": "203865人评价",
+    "info": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2375245718.jpg"
+}
+,
+{
+    "id": "226",
+    "name": "阿飞正传",
+    "score": "8.5",
+    "follow": "389109人评价",
+    "info": "王家卫是一种风格，张国荣是一个代表。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg"
+}
+,
+{
+    "id": "227",
+    "name": "谍影重重2",
+    "score": "8.7",
+    "follow": "280677人评价",
+    "info": "谁说王家卫镜头很晃？",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg"
+}
+,
+{
+    "id": "228",
+    "name": "地球上的星星",
+    "score": "8.9",
+    "follow": "163639人评价",
+    "info": "天使保护事件始末。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1973489335.jpg"
+}
+,
+{
+    "id": "229",
+    "name": "完美陌生人",
+    "score": "8.5",
+    "follow": "431083人评价",
+    "info": "来啊，互相伤害啊！",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2522331945.jpg"
+}
+,
+{
+    "id": "230",
+    "name": "彗星来的那一夜",
+    "score": "8.5",
+    "follow": "401639人评价",
+    "info": "小成本大魅力。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187896734.jpg"
+}
+,
+{
+    "id": "231",
+    "name": "战争之王",
+    "score": "8.7",
+    "follow": "278928人评价",
+    "info": "做一颗让别人需要你的棋子。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792282381.jpg"
+}
+,
+{
+    "id": "232",
+    "name": "香水",
+    "score": "8.5",
+    "follow": "447422人评价",
+    "info": "一个单凭体香达到高潮的男人。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2571500223.jpg"
+}
+,
+{
+    "id": "233",
+    "name": "谍影重重",
+    "score": "8.6",
+    "follow": "335187人评价",
+    "info": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg"
+}
+,
+{
+    "id": "234",
+    "name": "朗读者",
+    "score": "8.6",
+    "follow": "386547人评价",
+    "info": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg"
+}
+,
+{
+    "id": "235",
+    "name": "东京物语",
+    "score": "9.2",
+    "follow": "101739人评价",
+    "info": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1925331564.jpg"
+}
+,
+{
+    "id": "236",
+    "name": "猜火车",
+    "score": "8.5",
+    "follow": "353100人评价",
+    "info": "不可猜的青春迷笛。 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg"
+}
+,
+{
+    "id": "237",
+    "name": "再次出发之纽约遇见你",
+    "score": "8.6",
+    "follow": "331868人评价",
+    "info": "爱我就给我看你的播放列表。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg"
+}
+,
+{
+    "id": "238",
+    "name": "千钧一发",
+    "score": "8.8",
+    "follow": "199165人评价",
+    "info": "一部能引人思考的科幻励志片。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg"
+}
+,
+{
+    "id": "239",
+    "name": "浪潮",
+    "score": "8.7",
+    "follow": "217123人评价",
+    "info": "世界离独裁只有五天。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg"
+}
+,
+{
+    "id": "240",
+    "name": "驴得水",
+    "score": "8.3",
+    "follow": "722490人评价",
+    "info": "过去的如果就让它过去了，未来只会越来越糟！",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg"
+}
+,
+{
+    "id": "241",
+    "name": "黑客帝国2：重装上阵",
+    "score": "8.6",
+    "follow": "289984人评价",
+    "info": "一个精彩的世界观正在缓缓建立。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p443461390.jpg"
+}
+,
+{
+    "id": "242",
+    "name": "聚焦",
+    "score": "8.8",
+    "follow": "224123人评价",
+    "info": "新闻人的理性求真。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg"
+}
+,
+{
+    "id": "243",
+    "name": "东京教父",
+    "score": "9.0",
+    "follow": "130836人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg"
+}
+,
+{
+    "id": "244",
+    "name": "我爱你",
+    "score": "9.0",
+    "follow": "123739人评价",
+    "info": "你要相信，这世上真的有爱存在，不管在什么年纪 ",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg"
+}
+,
+{
+    "id": "245",
+    "name": "小萝莉的猴神大叔",
+    "score": "8.4",
+    "follow": "389750人评价",
+    "info": "宝莱坞的萝莉与大叔。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg"
+}
+,
+{
+    "id": "246",
+    "name": "追随",
+    "score": "8.9",
+    "follow": "144807人评价",
+    "info": "诺兰的牛逼来源于内心散发出的恐惧。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561545031.jpg"
+}
+,
+{
+    "id": "247",
+    "name": "无间道2",
+    "score": "8.6",
+    "follow": "313382人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg"
+}
+,
+{
+    "id": "248",
+    "name": "黑鹰坠落",
+    "score": "8.7",
+    "follow": "230593人评价",
+    "info": "还原真实而残酷的战争。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg"
+}
+,
+{
+    "id": "249",
+    "name": "一次别离",
+    "score": "8.7",
+    "follow": "209968人评价",
+    "info": "只有有信仰的人才能说出事实真相。",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg"
+}
+,
+{
+    "id": "250",
+    "name": "网络谜踪",
+    "score": "8.6",
+    "follow": "413671人评价",
+    "info": "",
+    "picurl": "https://images.weserv.nl/?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2542848758.jpg"
+}
+]
+    }
+}
