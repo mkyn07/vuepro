@@ -116,7 +116,7 @@
             "code": "010", 
             "name": "北京", 
             "pinyin": "Beijing", 
-            "label": "Beijing010"
+            "label": "1"
           }, 
           {
             "code": "0436", 
@@ -285,7 +285,7 @@
             "code": "023", 
             "name": "重庆", 
             "pinyin": "Chongqing", 
-            "label": "Chongqing023"
+            "label": "3"
           }, 
           {
             "code": "0431", 
@@ -309,7 +309,7 @@
             "code": "028", 
             "name": "成都", 
             "pinyin": "Chengdu", 
-            "label": "Chengdu028"
+            "label": "7"
           }, 
           {
             "code": "0317", 
@@ -1097,7 +1097,7 @@
             "code": "020", 
             "name": "广州", 
             "pinyin": "Guangzhou", 
-            "label": "Guangzhou020"
+            "label": "6"
           }, 
           {
             "code": "0851", 
@@ -1178,10 +1178,10 @@
             "label": "Gaocheng0311"
           }, 
           {
-            "code": "025", 
+            "code": "0251",
             "name": "高淳", 
             "pinyin": "Gaochun", 
-            "label": "Gaochun025"
+            "label": "Gaochun0251"
           }, 
           {
             "code": "0931", 
@@ -2610,10 +2610,10 @@
             "label": "Linyi0534"
           }, 
           {
-            "code": "025", 
+            "code": "0252",
             "name": "溧水", 
             "pinyin": "Lishui", 
-            "label": "Lishui025"
+            "label": "Lishui0252"
           }, 
           {
             "code": "0772", 
@@ -3585,7 +3585,7 @@
             "code": "021", 
             "name": "上海", 
             "pinyin": "Shanghai", 
-            "label": "Shanghai021"
+            "label": "2"
           }, 
           {
             "code": "024", 
@@ -3597,7 +3597,7 @@
             "code": "0755", 
             "name": "深圳", 
             "pinyin": "Shenzhen", 
-            "label": "Shenzhen0755"
+            "label": "5"
           }, 
           {
             "code": "0311", 
@@ -4054,7 +4054,7 @@
             "code": "022", 
             "name": "天津", 
             "pinyin": "Tianjin", 
-            "label": "Tianjin022"
+            "label": "4"
           }, 
           {
             "code": "0576", 

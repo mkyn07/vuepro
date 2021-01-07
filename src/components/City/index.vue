@@ -1,11 +1,11 @@
 <template>
   <div class="city_body">
-
+        <Loading v-if="isLoading" />
         <div class="city_list">
                     <div class="city_hot">
                         <h2>热门城市</h2>
                         <ul class="clearfix">
-                          <li v-for="item in hotList" :key="item.name">{{item.name}}</li>
+                          <li v-for="item in hotList" :key="item.id" @click="handleToCity(item.nm,item.id)">{{item.nm}}</li>
 
                         </ul>
                     </div>
@@ -14,7 +14,7 @@
                        <div v-for="item in cityList" :key="item.nm">
                               <h2>{{ item.index }}</h2>
                               <ul>
-                                  <li v-for="itemList in item.list" :key="itemList.nm">
+                                  <li v-for="itemList in item.list" :key="itemList.nm" @click="handleToCity(itemList.nm,itemList.id)">
                                     {{itemList.nm}}
                                   </li>
 
@@ -44,30 +44,40 @@ export default {
         return {
             cityList : [],
             hotList : [],
+            isLoading : true
 
         }
     },
 
 
 
-    mounted(){
-
-        //var cityList = window.localStorage.getItem('cityList');
-       // var hotList = window.localStorage.getItem('hotList');
+    mounted() {
 
 
-            this.axios.get('/api/city.json').then((res)=> {
-              var msg = res.data.msg;
-              if (msg === 'ok') {
+      var cityList = window.localStorage.getItem('cityList');
+      var hotList = window.localStorage.getItem('hotList');
+      if (cityList && hotList) {
+        this.cityList = JSON.parse(cityList);
+        this.hotList = JSON.parse(hotList);
+         this.isLoading = false;
+      }
+      else {
+        this.axios.get('/api/city.json').then((res) => {
+          var msg = res.data.msg;
+          if (msg === 'ok') {
+            this.isLoading = false;
+            var cities = res.data.data.cities;
+            //[ { index : 'A' , list : [{ nm : '阿城' , id : 123 }] } ]
+            var {hotList, cityList} = this.formatCityList(cities);
+            this.cityList = cityList;
+            this.hotList = hotList;
 
-                var cities = res.data.data.cities;
-                //[ { index : 'A' , list : [{ nm : '阿城' , id : 123 }] } ]
-                 var { hotList,cityList } = this.formatCityList(cities);
-                   this.cityList = cityList;
-                    this.hotList = hotList;
+            this, localStorage.setItem('cityList', JSON.stringify(cityList));
+            this, localStorage.setItem('hotList', JSON.stringify(hotList));//本地存储
 
-              }
-            });
+          }
+        });
+      }
     },
     methods : {
         formatCityList(cities){
@@ -83,9 +93,10 @@ export default {
                     cities[i].pinyin === "Guangzhou"||
                     cities[i].label === "Nanjing025"||
                     cities[i].pinyin === "Tianjin"){
-                    hotList.push( cities[i] );
+                    hotList.push({ nm : cities[i].name , id : cities[i].label } );
                 }
               }
+
 
               for(var i=0;i<cities.length;i++){
                   var firstLetter = cities[i].pinyin.substring(0,1).toUpperCase();
@@ -124,6 +135,7 @@ export default {
                   return true;
               }
               console.log(cityList);
+              console.log(hotList);
 
 
               return {
@@ -136,6 +148,12 @@ export default {
             var h2 = this.$refs.city_sort.getElementsByTagName('h2');
             this.$refs.city_sort.parentNode.scrollTop = h2[index].offsetTop;
             //this.$refs.city_List.toScrollTop(-h2[index].offsetTop);
+        },
+        handleToCity(nm,id){
+          this.$store.commit('city/CITY_INFO',{nm,id});
+          window.localStorage.setItem('nowNM',nm);
+          window.localStorage.setItem('nowID',id);
+          this.$router.push('/movie/nowPlaying');
         }
       }
 }

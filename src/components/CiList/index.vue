@@ -1,24 +1,24 @@
 <template>
-<div class="cinema_body">
-				<ul>
-					<li v-for="item in cinemaList" :key="item.cinemaId">
-						<div>
-							<span>{{ item.cinemaName }}</span>
-							<span class="q"><span class="price">{{ item.latitude }}</span> 元起</span>
-						</div>
-						<div class="address">
-							<span>{{ item.address }}</span>
-							<span>{{ item.longitude }}km</span>
-						</div>
-						<div class="card">
-                			<div>小吃</div>
-                			<div>折扣卡</div>
-       					</div>
-					</li>
 
-
-				</ul>
-</div>
+  <div class="cinema_body">
+      <Loading v-if="isLoading" />
+      <ul v-else>
+        <li v-for="item in cinemaList" :key="item.cinemaId">
+          <div>
+            <span>{{ item.cinemaName }}</span>
+            <span class="q"><span class="price">{{ item.latitude }}</span> 元起</span>
+          </div>
+          <div class="address">
+            <span>{{ item.address }}</span>
+            <span>{{ item.longitude }}km</span>
+          </div>
+          <div class="card">
+                    <div>小吃</div>
+                    <div>折扣卡</div>
+              </div>
+        </li>
+      </ul>
+  </div>
 
 </template>
 
@@ -27,7 +27,8 @@ export default {
   name: "CiList",
   data(){
     return{
-      cinemaList : []
+      cinemaList : [],
+      isLoading : true
     }
   },
   mounted() {
@@ -35,6 +36,7 @@ export default {
       var msg = res.data.msg;
       if(msg === "ok"){
         this.cinemaList = res.data.data.cinemas;
+        this.isLoading = false;
       }
 
     });

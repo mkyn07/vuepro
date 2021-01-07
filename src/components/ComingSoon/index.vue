@@ -1,8 +1,10 @@
 <template>
-  <div class="movie_body">
-				<ul>
+  <div class="movie_body" ref="movie_body">
+        <Loading v-if="isLoading"/>
+        <ul v-else>
+          <li class="pullDown">{{pullDownMsg}}</li>
 					<li v-for="item in movieList" :key="item.id">
-						<div class="pic_show"><img :src="item.picurl"></div>
+						<div class="pic_show" @click="handleToDetail"><img :src="item.picurl"></div>
 						<div class="info_list">
 							<h2>{{ item.title }}</h2>
 							<p><span class="person">{{ item.follow }}</span></p>
@@ -14,15 +16,20 @@
 						</div>
 					</li>
 				</ul>
+
   </div>
 </template>
 
 <script>
+import BScroll from 'better-scroll';
+
 export default {
     name : 'ComingSoon',
     data(){
       return {
-        movieList : []
+        movieList : [],
+        pullDownMsg: '',
+        isLoading : true
 
       }
     },
@@ -31,9 +38,44 @@ export default {
         var msg = res.data.msg;
         if (msg === 'ok'){
           this.movieList = res.data.data.movieList;
+          this.isLoading = false;
 
+          this.$nextTick(()=>{
+            var scroll = new BScroll( this.$refs.movie_body,{
+              click: true,
+              probeType: 1
+            });
+            scroll.on('scroll',(pos)=>{
+              //console.log('scroll');
+              if( pos.y >30){
+                this.pullDownMsg = '正在刷新...'
+
+              }
+
+            });
+            scroll.on('touchEnd',(pos)=>{
+              //console.log('touchEnd')
+              if( pos.y >30){
+                this.axios.get('/api/newmovie.json').then((res)=>{
+                 var msg = res.data.msg;
+                 if (msg === 'ok'){
+                   this.pullDownMsg = '刷新成功';
+                   setTimeout(()=>{
+                     this.movieList = res.data.data.movieList;
+                     this.pullDownMsg = '';
+                   },1000)
+                 }
+                });
+              }
+            });
+          });
         }
       });
+    },
+    methods : {
+      handleToDetail() {
+        console.log('asasas');
+      }
     }
 }
 
