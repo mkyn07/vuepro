@@ -4,9 +4,9 @@
         <ul v-else>
           <li class="pullDown">{{pullDownMsg}}</li>
 					<li v-for="item in movieList" :key="item.id">
-						<div class="pic_show" @click="handleToDetail"><img :src="item.picurl"></div>
+						<div class="pic_show" @click="handleToDetail(item.id)"><img :src="item.picurl"></div>
 						<div class="info_list">
-							<h2>{{ item.title }}</h2>
+							<h2 @click="handleToDetail(item.id)">{{ item.title }}</h2>
 							<p><span class="person">{{ item.follow }}</span></p>
 							<p>{{item.score}}分</p>
 							<p>{{item.info}}</p>
@@ -33,7 +33,7 @@ export default {
 
       }
     },
-    mounted() {
+    activated() {
       this.axios.get('/api/newmovie.json').then((res)=>{
         var msg = res.data.msg;
         if (msg === 'ok'){
@@ -73,10 +73,11 @@ export default {
       });
     },
     methods : {
-      handleToDetail() {
-        console.log('asasas');
-      }
+      handleToDetail(movieId) {
+         this.$router.push('/movie/detail/2/'+movieId);
+      },
     }
+
 }
 
 </script>
