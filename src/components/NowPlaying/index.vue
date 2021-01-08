@@ -6,9 +6,9 @@
           <li class="pullDown">{{pullDownMsg}}</li>
           <li v-for="item in movieList" :key="item.id" >
 
-            <div class="pic_show" @click="handleToDetail"><img :src="item.picurl"></div>
+            <div class="pic_show" @click="handleToDetail(item.id)"><img :src="item.picurl"></div>
             <div class="info_list">
-              <h2>{{ item.name }}</h2>
+              <h2 @click="handleToDetail(item.id)">{{ item.name }}</h2>
               <p>豆瓣评分 <span class="grade">{{item.score}}</span></p>
               <p>{{ item.follow }}</p>
               <p>{{item.info}}</p>
@@ -43,7 +43,7 @@ export default {
       var cityId = this.$store.state.city.id;
       if( this.prevCityId === cityId){return;}
       this.isLoading = false;
-      console.log(123)
+      //console.log(123)
 
       this.axios.get('/api/movie'+cityId+'.json').then((res)=>{
         var msg = res.data.msg;
@@ -85,8 +85,9 @@ export default {
       });
     },
     methods:{
-      handleToDetail(){
-        console.log('asasas');
+      handleToDetail(movieId){
+        //console.log(movieId);
+        this.$router.push('/movie/detail/1/'+movieId);
       },
       /*
       handleToScroll(pos){
